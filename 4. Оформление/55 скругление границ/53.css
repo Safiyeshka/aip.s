@@ -1,0 +1,21 @@
+#t1 {
+    border: 2px solid green;
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+}
+
+#t2 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(77, 238, 153);
+    border-radius:30px
+}
+
+#t3 {
+    border: 2px solid green;
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+}
+

@@ -1,0 +1,7 @@
+p:first-of-type {
+    color: fuchsia;
+}
+
+p:last-of-type {
+    color: greenyellow;
+}

@@ -1,0 +1,31 @@
+#t1 {
+    border-width: 5px;
+    border-style: solid;
+    border-color: blue;
+    width: 300px;
+    height: 200px;
+}
+
+#t2 {
+    border-width: 5px;
+    border-style: dotted;
+    border-color: red;
+    width: 300px;
+    height: 200px;
+}
+
+#t3 {
+    border-width: 2px;
+    border-style: dashed;
+    border-color: yellow;
+    width: 300px;
+    height: 200px;
+}
+
+#t4 {
+    border-width: 10px;
+    border-style: double;
+    border-color: blue;
+    width: 300px;
+    height: 200px;
+}
