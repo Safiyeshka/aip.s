@@ -1,0 +1,24 @@
+#elem1 {
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #FF8888;
+}
+#elem2 {
+	position: relative;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #7E89EB;
+	top: -50px;
+	left: 50px;
+}
+#elem3 {
+	position: relative;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #4DEE99;
+	top: -100px;
+	left: 100px;
+}

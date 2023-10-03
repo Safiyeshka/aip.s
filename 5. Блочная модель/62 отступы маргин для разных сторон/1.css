@@ -1,0 +1,45 @@
+
+#p1 {
+	width: 200px;
+	border: 1px solid red;
+}
+
+#ch1 {
+	margin-top:    30px; /* сверху */
+	margin-right:  30px; /* справа */
+	margin-bottom: 60px; /* снизу */
+	margin-left:   30px; /* слева */
+	
+	height: 100px;
+	border: 1px solid green;
+}
+
+#p2 {
+   width: 200px;
+   height: 200px;
+   border: 1px solid red;
+}
+
+#ch2 {
+	margin-top:    30px; /* сверху */
+	margin-right:  20px; /* справа */
+	margin-bottom: 30px; /* снизу */
+	margin-left:   20px; /* слева */
+	
+	height: 100px;
+	border: 1px solid green;
+}
+
+#p3 {
+	width: 200px;
+	border: 1px solid red;
+}
+#ch3{
+	margin-top:    20px; /* сверху */
+	margin-right:  60px; /* справа */
+	margin-bottom: 20px; /* снизу */
+	margin-left:   60px; /* слева */
+	
+	height: 100px;
+	border: 1px solid green;
+}
