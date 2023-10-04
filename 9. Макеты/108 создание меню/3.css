@@ -1,0 +1,21 @@
+#menu {
+	display: flex;
+	width: 80px;
+}
+
+#menu a {
+	margin-right: 0px;
+	padding: 15px 35px;
+	font: 16px Arial;
+	text-decoration: none;
+	color: white;
+	border: 1px solid #16A177;
+	background-color: #16A177;
+}
+
+#menu a:hover, #menu a.active {
+	color: white;
+	border: 1px solid #0e6a4e;
+	background-color: #0e6a4e;
+}
+
